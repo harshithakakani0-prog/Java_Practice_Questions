@@ -3,7 +3,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class sortingempoyees {
+public class Sortingempoyees {
     public static void main(String[] args) {
         List<Employe> list=new ArrayList<>();
         list.add(new Employe(1,"zzzzzz",100000));
