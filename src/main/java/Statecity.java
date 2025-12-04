@@ -29,4 +29,3 @@ import java.util.List;
             return city;
         }
     }
-
